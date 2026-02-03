@@ -4,11 +4,12 @@
 
 # SantAI - AI Financial Assistant for Debt Management
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![Meta Llama](https://img.shields.io/badge/Meta-Llama-FF6B35?style=for-the-badge&logo=meta&logoColor=white)](https://llama.meta.com/)
 [![Groq](https://img.shields.io/badge/Groq-00A67E?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+
 
 SantAI is an empathetic AI-powered financial assistant designed to help Indonesian borrowers navigate debt challenges safely and calmly. By leveraging official OJK (Otoritas Jasa Keuangan) regulations and real-time AI analysis, SantAI provides immediate clarity on loan legality and personalized guidance for debt management.
 
